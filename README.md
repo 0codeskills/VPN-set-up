@@ -29,10 +29,9 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 <img width="437" height="129" alt="image" src="https://github.com/user-attachments/assets/6675d176-4095-4e72-a7dc-cef8c8ea4933" />
 
-3. sdjfhsjdf
+3. The following commands will create a folder in your home directory, copy the content /usr/share/easy-rsa folder to the created folder and we wil switch to the new directory.
 
 <img width="442" height="217" alt="image" src="https://github.com/user-attachments/assets/639d2feb-46d3-446b-b52a-de6660e0df55" />
-
 
 4. dsfsdfsdf
 
