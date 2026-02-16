@@ -2,7 +2,7 @@
 
 ## Objective
 
-The OSINT-SpiderFoot project aimed to set up and use this open source intelligence automation tool for threat intelligence in controlled environment. The primary focus was to install SpiderFoot on Kali Linux VM and use it to map threat intelligence data for a known email address.
+The  requirements for this project are two linux Virtual Machines and OpenVPN software. One of the VMs will be set up as VPN server and another one as VPN client, which will allow to test the VPN connectivity and configuration.
 
 ### Skills Learned
 
