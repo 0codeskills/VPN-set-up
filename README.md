@@ -6,15 +6,15 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 ### Skills Learned
 
-- Installation of SpiderFoot tool with use of terminal on Linux based VM.
-- Use of SpiderFoot to complete threat intelligence data mapping.
+- Installation of OpenVPN server on Kali Linux VM.
+- Configuration of OpenVPN server.
 - Ability to read the results of scan.
 - Enhanced knowledge of OSINT automation tool.
 
 ### Tools Used
 
 - Kali Linux virtual machine as controlled environment.
-- Linux terminal to intall and run cybersecurity tools.
+- Linux terminal to install and configure OpenVPN.
 - SpiderFoot to map threat intelligence data.
 
 ## Steps
