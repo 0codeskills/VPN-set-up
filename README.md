@@ -25,8 +25,9 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 <img width="439" height="120" alt="image" src="https://github.com/user-attachments/assets/015b9f2b-c507-434b-835e-1588b3bbbdad" />
 
-2. 
+2. Next step is to install OpenVPN and easy-rsa software
 
+<img width="437" height="129" alt="image" src="https://github.com/user-attachments/assets/6675d176-4095-4e72-a7dc-cef8c8ea4933" />
 
 
 
