@@ -50,3 +50,5 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 4. Now we will sign the server certificate with the CA.
 
 <img width="728" height="681" alt="image" src="https://github.com/user-attachments/assets/2b065bdf-897e-4c2e-87e0-6fb834bc8b54" />
+
+5. asdads
