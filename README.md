@@ -65,7 +65,28 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 1. First we will create server configuration file. In order to that we will create a new directory called /etc/openvpn and change to that directory
 
-<img width="564" height="170" alt="image" src="https://github.com/user-attachments/assets/febe3621-ee55-4a6e-930b-43159dd80c2b" />
+<img width="528" height="240" alt="image" src="https://github.com/user-attachments/assets/a60b7121-1b5f-44ea-b3b1-5e6272030a0f" />
 
-2. dsfsdfs
+2. Now we will type the below code into the config file.
+
+```
+port 1194
+proto udp
+dev tun
+ca /etc/openvpn/ca.crt 
+cert /etc/openvpn/server.crt
+key /etc/openvpn/server.key
+dh /etc/openvpn/dh.pem
+auth SHA256
+tls-auth /etc/openvpn/ta.key 0
+server 10.8.0.0 255.255.255.0
+push "redirect-gateway def1 bypass-dhcp"
+push "dhcp-option DNS 8.8.8.8"
+keepalive 10 120
+cipher AES-256-CBC
+persist-key
+persist-tun
+status /var/log/openvpn-status.log
+verb 3
+```
 
