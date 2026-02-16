@@ -33,5 +33,7 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 <img width="442" height="217" alt="image" src="https://github.com/user-attachments/assets/639d2feb-46d3-446b-b52a-de6660e0df55" />
 
-4. dsfsdfsdf
+4. We will now intiate PKI evironment by running the command below.
+
+<img width="492" height="123" alt="image" src="https://github.com/user-attachments/assets/db93c2ea-e698-4979-96d6-2f0a7c065c4b" />
 
