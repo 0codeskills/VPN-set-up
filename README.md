@@ -21,7 +21,10 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 #### OpenVPN Installation
 
-1. 
+1.Make sure that system in updated by running the following command.
+
+<img width="438" height="103" alt="image" src="https://github.com/user-attachments/assets/ec1aef59-152f-4b1f-8730-373a7dd7f28c" />
+
 
 
 
