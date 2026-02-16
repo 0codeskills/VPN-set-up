@@ -59,3 +59,13 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 4. It is now time to generate HMAC signatures for TLS authentication.
 
+<img width="442" height="95" alt="image" src="https://github.com/user-attachments/assets/0f495a0e-2e22-47f6-84d1-9f8065b722b8" />
+
+#### Configuring Server
+
+1. First we will create server configuration file. In order to that we will create a new directory called /etc/openvpn and change to that directory
+
+<img width="564" height="170" alt="image" src="https://github.com/user-attachments/assets/febe3621-ee55-4a6e-930b-43159dd80c2b" />
+
+2. dsfsdfs
+
