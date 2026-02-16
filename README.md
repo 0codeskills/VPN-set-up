@@ -33,8 +33,14 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 <img width="442" height="217" alt="image" src="https://github.com/user-attachments/assets/639d2feb-46d3-446b-b52a-de6660e0df55" />
 
-4. We will now intiate PKI evironment by running the command below.
+#### Building CA
+
+1. We will now intiate PKI evironment by running the command below, which will allow us to create CA.
 
 <img width="701" height="409" alt="image" src="https://github.com/user-attachments/assets/2f3ab2a6-ed49-43e0-8669-283bcf99baf3" />
 
-5. asdasd
+2. We will now build the CA, set a passphrase and assign a hostname to the CA.
+
+<img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/25e5c79c-0beb-4703-bec7-180ccbc6dd8f" />
+
+
