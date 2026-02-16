@@ -8,34 +8,18 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 - Installation of OpenVPN server on Kali Linux VM.
 - Configuration of OpenVPN server.
-- Ability to read the results of scan.
-- Enhanced knowledge of OSINT automation tool.
+- Configuration od OpenVPN client.
+- Testing VPN connection.
 
 ### Tools Used
 
 - Kali Linux virtual machine as controlled environment.
+- OpenVPN software.
 - Linux terminal to install and configure OpenVPN.
-- SpiderFoot to map threat intelligence data.
 
 ## Steps
 
-1. I went to google.com and searched for SpiderFoot. Second result took me to a github reposytory of <a href="https://github.com/smicallef/spiderfoot">SpiderFoot</a>.
-2. I have downloaded the zip file to the Kali Linux VM.
-
-
-
-3. I have extracted the files from the zip file in the /Downloads directory.
-
-
-4. I have initiated the SpiderFoot tool. It is very important to use the correct options with the command.
-
-
-
-5. I have opened the provided URL in web browser, selected 'New Scan' from the menu, set up 'Scan Name' and 'Scan Target' and started scan. We can select from range of different target types i.e. domain name, IPv4 address, IPv6 address, hostname, subnet, e-mail address, phone number, human name, username, etc. 
-
-
-
-6. Scan run for couple of minutes before returning the results.
+1. 
 
 
 
