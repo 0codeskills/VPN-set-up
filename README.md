@@ -43,12 +43,19 @@ The  requirements for this project are two linux Virtual Machines and OpenVPN so
 
 <img width="1022" height="721" alt="image" src="https://github.com/user-attachments/assets/25e5c79c-0beb-4703-bec7-180ccbc6dd8f" />
 
-3. Next we will generate server certificate and the key.
+#### Generating certificates
+
+1. Next we will generate server certificate and the key.
 
 <img width="1804" height="539" alt="image" src="https://github.com/user-attachments/assets/142732fd-3510-4fa4-a8ca-2228f7fdc6d7" />
 
-4. Now we will sign the server certificate with the CA.
+2. Now we will sign the server certificate with the CA. Type 'yes' under confimr request details and next enter the passphrase.
 
 <img width="728" height="681" alt="image" src="https://github.com/user-attachments/assets/2b065bdf-897e-4c2e-87e0-6fb834bc8b54" />
 
-5. asdads
+3. Next we will generate Diffie-Hellman parameters
+
+<img width="1349" height="492" alt="image" src="https://github.com/user-attachments/assets/886d5e96-bb55-4b52-83b4-3c3b17fbc307" />
+
+4. It is now time to generate HMAC signatures for TLS authentication.
+
