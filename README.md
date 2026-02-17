@@ -100,7 +100,8 @@ verb 3
 ```
 sudo nano /etc/sysctl.conf
 ```
+2. While viewing the file scroll down to line "#net.ipv4.ip_forward=1" and remove the # from the begining of the line to enable the IP forwarding. Press Ctrl X, type "Y" and press Enter to save the changes.
 
-
+<img width="906" height="596" alt="image" src="https://github.com/user-attachments/assets/ea60831e-8162-4aea-8065-517ca10cd1c3" />
 
  
