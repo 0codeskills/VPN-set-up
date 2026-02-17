@@ -89,4 +89,8 @@ persist-tun
 status /var/log/openvpn-status.log
 verb 3
 ```
+3. Now I will run commands to copy all the certificates I have created to the correct directory.
 
+<img width="588" height="314" alt="image" src="https://github.com/user-attachments/assets/444386e0-2980-4f63-b7de-4a57f1e3ea14" />
+
+4. asdsad
