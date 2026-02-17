@@ -2,7 +2,7 @@
 
 ## Objective
 
-The  requirements for this project are two linux Virtual Machines and OpenVPN software. One of the VMs will be set up as VPN server and another one as VPN client, which will allow to test the VPN connectivity and configuration.
+The requirements for this project are two linux Virtual Machines and OpenVPN software. One of the VMs will be set up as VPN server and another one as VPN client, which will allow to test the VPN connectivity and configuration.
 
 ### Skills Learned
 
