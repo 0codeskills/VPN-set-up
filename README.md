@@ -114,3 +114,5 @@ sudo nano /etc/sysctl.conf
 
 <img width="639" height="102" alt="image" src="https://github.com/user-attachments/assets/fb19f022-b1dd-41e0-8f6b-39295b0a553d" />
 
+2. Next run commands to make sure that IP tables have been updated with the rules we have just added.
+
