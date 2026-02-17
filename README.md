@@ -104,4 +104,13 @@ sudo nano /etc/sysctl.conf
 
 <img width="906" height="596" alt="image" src="https://github.com/user-attachments/assets/ea60831e-8162-4aea-8065-517ca10cd1c3" />
 
+3. To apply the changes run the following command.
+
+<img width="396" height="130" alt="image" src="https://github.com/user-attachments/assets/7727aeb2-da9f-4e05-9e74-949ba5a6cd7e" />
  
+#### Configuring IP tables for NAT - Network Address Translation.
+
+1. Run the following command.
+
+<img width="639" height="102" alt="image" src="https://github.com/user-attachments/assets/fb19f022-b1dd-41e0-8f6b-39295b0a553d" />
+
